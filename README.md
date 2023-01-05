@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br />
-![](https://github.com/ishinvin/ishinvin/blob/main/cv.jpg)
+
