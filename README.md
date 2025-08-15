@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 🛠 **Builder of bugs** (and sometimes features)  
-🔧 **Full-stack(overflow)** prompt engineer  
+🔧 **Full-stack(overflow)** developer  
 🔍 Currently searching for the **semicolon** I lost in **2016**  
 📦 npm install — baby 👶     
 
