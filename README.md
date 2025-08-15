@@ -35,9 +35,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinvin&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinvin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishinvin&show_icons=true&layout=donut)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinvin&show_icons=true&count_private=true&theme=graywhite)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinvin&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishinvin&show_icons=true&layout=donut&theme=graywhite)
 
 ---
 
