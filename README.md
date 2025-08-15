@@ -6,7 +6,7 @@
 🛠 **Builder of bugs** (and sometimes features)  
 🔧 **Full-stack(overflow)** prompt engineer  
 🔍 Currently searching for the **semicolon** I lost in **2016**  
-📦 npm install — peace    
+👶 npm install — son     
 
 ---
 ### 🐒 Fun Facts
