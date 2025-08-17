@@ -32,7 +32,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinvin&theme=graywhite)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinvin&show_icons=true&count_private=true&theme=graywhite)
 <br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishinvin&show_icons=true&theme=graywhite&layout=compact)
