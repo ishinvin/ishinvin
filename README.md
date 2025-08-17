@@ -11,11 +11,8 @@
 ---
 ### 🐒 Fun Facts
 💻 I write code that works… in **my machine**   
-⚙️ **ChatGPT** — my real IDE   
-🥇 World’s #1 developer in **Ctrl+C, Ctrl+V** speed competitions   
 🏆 Winner of **Most Tabs Open While Coding**   
-🕵️‍♂️ Debugging by staring at the screen until the bug feels guilty  
-📚 Currently learning **TypeScript** because JavaScript hurt my feelings
+🤖 **ChatGPT** — my real IDE   
 
 ---
 
