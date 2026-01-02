@@ -9,12 +9,6 @@
 📦 npm install — baby 👶     
 
 ---
-### 🐒 Fun Facts
-💻 I write code that works… in **my machine**   
-🏆 Winner of **Most Tabs Open While Coding**   
-🤖 **ChatGPT** — my real IDE   
-
----
 
 ## 🛠 Tech Skills
 
@@ -28,13 +22,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=FFF)
-
----
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinvin&show_icons=true&count_private=true&theme=graywhite)
-<br> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishinvin&show_icons=true&theme=graywhite&layout=compact)
 
 ---
 
