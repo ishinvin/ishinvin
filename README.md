@@ -4,7 +4,6 @@
 
 ## 🧠 About Me
 🛠 **Builder of bugs** (and sometimes features)  
-🔧 **Full-stack(overflow)** developer  
 🔍 Currently searching for the **semicolon** I lost in **2016**  
 📦 npm install — baby 👶     
 
@@ -13,8 +12,8 @@
 ## 🛠 Tech Skills
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=FFF)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=FFF)
 <br>
