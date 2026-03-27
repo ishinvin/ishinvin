@@ -2,10 +2,12 @@
 
 💻 Software Developer | 🚀 Lifelong Learner
 
+![](https://komarev.com/ghpvc/?username=ishinvin)
+
 ## 🧠 About Me
 🛠 **Builder of bugs** (and sometimes features)  
 🔍 Currently searching for the **semicolon** I lost in **2016**  
-📦 npm install — baby 👶     
+📦 npm install — baby 👶 
 
 ---
 
@@ -24,6 +26,6 @@
 
 ---
 
-> “I code. I break. I fix. I commit. Repeat.”
+> “I code. I break. I fix. I commit. Repeat.” 
 
-![](https://komarev.com/ghpvc/?username=ishinvin)
+
