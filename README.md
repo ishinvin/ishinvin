@@ -13,9 +13,9 @@
 🔍 Currently searching for the **semicolon** I lost in **2016**  
 📦 npm install — baby 👶
 
-🌐 Portfolio: [ishinvin.github.io](https://ishinvin.github.io)
-
 ![](https://komarev.com/ghpvc/?username=ishinvin)
+
+🌐 Portfolio: [ishinvin.github.io](https://ishinvin.github.io)
 
 ---
 
