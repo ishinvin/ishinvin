@@ -2,19 +2,11 @@
   <img src="./header.svg" alt="Animated terminal intro for Ishin Vin" width="820"/>
 </p>
 
-<h1 align="center">Hi, I'm Ishin</h1>
-
-<p align="center">
-  💻 Software Developer | 🚀 Lifelong Learner
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishinvin" alt="Profile views"/>
-</p>
+# 👋 I'm Ishin
 
 ## 🧠 About Me
 
-📍 Software developer based in **Phnom Penh, Cambodia** 🇰🇭  
+💻 Software Developer | 🚀 Lifelong Learner  
 ⚙️ Building backend services with **Go**, **Spring Boot** and **Node.js**  
 🌱 Always learning, always shipping, always sharing  
 🛠 **Builder of bugs** (and sometimes features)  
@@ -22,6 +14,8 @@
 📦 npm install — baby 👶
 
 🌐 Portfolio: [ishinvin.github.io](https://ishinvin.github.io)
+
+![](https://komarev.com/ghpvc/?username=ishinvin)
 
 ---
 
