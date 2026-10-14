@@ -4,6 +4,8 @@
 
 # 👋 I'm Ishin
 
+![Visitors](https://hits.sh/github.com/ishinvin.svg?label=Visitors)
+
 ## 🧠 About Me
 
 💻 Software Developer | 🚀 Lifelong Learner  
@@ -12,8 +14,6 @@
 🛠 **Builder of bugs** (and sometimes features)  
 🔍 Currently searching for the **semicolon** I lost in **2016**  
 📦 npm install — baby 👶
-
-![](https://komarev.com/ghpvc/?username=ishinvin)
 
 🌐 Portfolio: [ishinvin.github.io](https://ishinvin.github.io)
 
